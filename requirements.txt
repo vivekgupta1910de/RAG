@@ -1,7 +1,5 @@
-langchain
 openai
 faiss-cpu
-tiktoken
+numpy
 pypdf
-streamlit
 python-dotenv
